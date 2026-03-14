@@ -3,7 +3,7 @@
 
 A 2D pen plotter is a computer-controlled, vector-based drawing machine that uses pens or markers to produce high-precision, human-like, or complex drawings on surfaces
 
-#features
+##features
 
 1. Supports multiple paper sizes (A1 to A10)
 2. High precision X-Y movement using belt drive mechanism
